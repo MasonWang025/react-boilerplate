@@ -5,11 +5,15 @@ This is a **refined version of my most-used CRA project structure**. I almost al
 
 # Contents
 
-## JSX Components
+## Navigation
 
-1. Set up the `App.js` and `index.js` to **support navigation** with `react-router-dom` components. Simply modify the `routes` dictionary contents in `App.js` for any web app structure.
-2. Add `ScrollToTop.js` to make sure to **scroll to top** on all route changes.
-3. Add some **basic components** such as the about page, header, and footer.
+1. **React router implemented** under `App.js` and `index.js`. Simply modify the `routes` list for any website structure.
+
+## SASS
+
+1. **Easy media queries** in `breakpoints.scss` (modified from Eduardo Boucas's files). Breakpoints are setup as Bootstrap's official breakpoints.
+2. **SASS file structure set up** under `src/styles/`, with `App.scss` importing other files and `variables.scss`.
+3. **Other CSS customizations** found in `other.scss`.
 
 # Usage
 
