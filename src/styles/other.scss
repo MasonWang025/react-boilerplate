@@ -1,3 +1,29 @@
+// underline link
+a.underline {
+  position: relative;
+  text-decoration: none;
+
+  &:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0.1em;
+    min-height: 2px;
+    background-color: currentColor;
+    transform-origin: right;
+    border: 0;
+    transition: transform 0.25s ease;
+  }
+
+  &:hover {
+    &:after {
+      transform: scaleX(0);
+    }
+  }
+}
+
 *::selection {
   background-color: $selection-color;
 }
