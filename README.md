@@ -19,14 +19,8 @@ This is a **refined version of my most-used CRA project structure**. I almost al
 
 # Usage
 
-## Running Repo Code
+## Using Template
 
-```
-git clone https://github.com/MasonWang025/react-boilerplate.git
-npm i
-npm start
-```
+Use template by clicking ```Use this template```.
 
-## My Usage
-
-Copy over the `src` folder, and run `npm i react-router-dom node-sass jquery --save`.
+Otherwise, copy over `public.html` and the `src` folder -> `npm i react-router-dom node-sass jquery --save`.
