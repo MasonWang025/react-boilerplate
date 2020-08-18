@@ -8,7 +8,7 @@ This is a **refined version of my most-used CRA project structure**. I almost al
 ## Navigation
 
 1. **React router implemented** under `App.js` and `index.js`. Simply modify the `routes` list for any website structure.
-2. **Styled navigation bar** that I commonly use. Customized Bootstrap scrollbar (added JS and CSS for UI and UX).
+2. **Styled navigation bar** that I commonly use. Extremely customized Bootstrap scrollbar (added JS and CSS for UI and UX).
 
 ## Styles
 
