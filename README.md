@@ -1,7 +1,9 @@
 # react-boilerplate
 
+***See [MasonWang025/react-mui-boilerplate](https://github.com/MasonWang025/react-mui-boilerplate) instead of this repository.***
+
 A ready-to-go React web app with navigation, Bootstrap, and some Node-SASS files all pre-configured.
-This is a **refined version of my most-used CRA project structure**. I almost always spend hours just on setting up what is essentially the same CRA project.
+This is a refined version of **what used to be** my most-used CRA project structure.
 
 # Contents
 
